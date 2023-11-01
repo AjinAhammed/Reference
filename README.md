@@ -10,6 +10,7 @@ https://flask.palletsprojects.com/en/3.0.x/quickstart/#html-escaping
 https://flask.palletsprojects.com/en/3.0.x/quickstart/#routing
 
 Face Recognition and Image Processing
+
 https://docs.opencv.org/4.x/d2/d96/tutorial_py_table_of_contents_imgproc.html
 https://docs.opencv.org/4.x/db/d27/tutorial_py_table_of_contents_feature2d.html
 https://docs.opencv.org/4.x/d3/dd5/tutorial_table_of_content_other.html
